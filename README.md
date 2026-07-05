@@ -67,11 +67,11 @@ attendance-system/
 
 | Home Page | Dashboard and Student Profile |
 |-----------|-----------|
-| ![](screenshots/home.png) | ![](screenshots/Dashboard and student profile.png) |
+| ![](screenshots/home.png) | ![](screenshots/dashboard-studentprofile.png) |
 
 | Student Registration | Analytics |
 |----------------------|-----------|
-| ![](screenshots/Student Registration.png) | ![](screenshots/Analytics.png) |
+| ![](screenshots/Student-Registation.png) | ![](screenshots/Analytics.png) |
 
 
 # ⚙ Installation
