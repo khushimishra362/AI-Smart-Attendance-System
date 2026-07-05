@@ -63,8 +63,6 @@ attendance-system/
 
 # 📸 Screenshots
 
-# 📸 Screenshots
-
 | Home Page | Dashboard and Student Profile |
 |-----------|-----------|
 | ![](screenshots/home.png) | ![](screenshots/dashboard-studentprofile.png) |
